@@ -1,3 +1,3 @@
 # Problemas de BD
 
-## Profesor Alberto Ramos Blanco
+## Profesor: Alberto Ramos Blanco
